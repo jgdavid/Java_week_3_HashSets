@@ -1,4 +1,4 @@
-package hash_maps;
+package com.qa.MorseCode;
 
 import java.util.HashMap;
 import java.util.Map;
